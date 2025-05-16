@@ -58,6 +58,20 @@
 <img src="https://cdn.jsdelivr.net/gh/YanRui06/YanRui06/line.gif"/>
 </p>
 
+<!--科幻风格个人网站按钮-->
+<p align="center">
+  <a href="https://yanrui06.github.io/">
+    <img src="https://img.shields.io/badge/ENTER_MY_WORLD-00FFFF?style=for-the-badge&logo=starship&logoColor=black&labelColor=0D1117&color=00FFFF&link=https://yanRui06.github.io/" alt="科幻按钮" style="box-shadow: 0 0 10px #00FFFF; animation: pulse 2s infinite;"/>
+  </a>
+</p>
+
+<style>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 5px #00FFFF; }
+    50% { box-shadow: 0 0 20px #00FFFF, 0 0 30px #0080FF; }
+    100% { box-shadow: 0 0 5px #00FFFF; }
+  }
+</style>
 
 <br>
 <!--计数君-->
