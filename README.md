@@ -69,3 +69,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
 </p>
 
+<!--分割线-->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/YanRui06/YanRui06/ralsei.gif"/>
+</p>
+<!--分割线-->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/YanRui06/YanRui06/wave.svg"/>
+</p>
