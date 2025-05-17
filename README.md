@@ -75,6 +75,26 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
 </p>
 
+<!-- 留言板 -->
+<p align="center">
+  <a href="https://github.com/YanRui06/YanRui06/issues/new?template=visitor-message.md&title=访客留言">
+    <img src="https://img.shields.io/badge/📝-在这里留言-7957D5?style=for-the-badge" alt="留言板"/>
+  </a>
+</p>
+
+<!-- 最近留言展示 -->
+<h3 align="center">💬 最近留言 💬</h3>
+<p align="center">
+  <a href="https://github.com/YanRui06/YanRui06/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%95%99%E8%A8%80%E6%9D%BF">
+    <img src="https://img.shields.io/github/issues/YanRui06/YanRui06/留言板?style=flat-square&color=9F7AEA" alt="查看所有留言"/>
+  </a>
+</p>
+
+<!-- 有趣互动 -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="编程笑话" />
+</p>
+
 <!--分割线-->
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/YanRui06/YanRui06/ralsei.gif"/>
@@ -83,3 +103,4 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/YanRui06/YanRui06/wave.svg"/>
 </p>
+
