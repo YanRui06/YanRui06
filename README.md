@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+YanRui;🚀+Passionate+Developer;💡+Always+Learning" alt="动态打字效果"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Zephyr;🚀+Passionate+Developer;💡+Always+Learning" alt="动态打字效果"/>
 </div>
 
 <!-- 个人简介卡片 -->
